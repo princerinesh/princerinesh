@@ -6,7 +6,7 @@
 
 
 <a href="https://">
-   <img alt="prince_rinesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=princerineshr&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"/></p>
+   <img alt="prince_rinesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=princerinesh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"/></p>
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerinesh&" alt="princerinesh" />
 </p>
