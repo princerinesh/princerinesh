@@ -1,4 +1,4 @@
-## HEY GEEK, IT'S ME GENIXCYBER
+## HEY GEEK, IT'S ME prince_rinesh
 
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
